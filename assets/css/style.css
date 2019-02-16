@@ -1,0 +1,22 @@
+#logo{
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    border-radius: 85%;
+}
+
+nav{
+    /* float: left; */
+}
+
+#masthead{
+    background-color: bisque;
+}
